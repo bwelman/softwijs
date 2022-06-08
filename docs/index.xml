@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Softwijs website</title>
+    <link>https://bwelman.github.io/softwijs/</link>
+    <atom:link href="https://bwelman.github.io/softwijs/index.xml" rel="self" type="application/rss+xml"/>
+    <description>Data analyse, Excel, R
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Mon, 04 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>KNN uitleg</title>
+      <dc:creator>Ben Welman</dc:creator>
+      <link>https://bwelman.github.io/softwijs/posts/2022-04-04-knn-uitleg</link>
+      <description>Uitleg van de Machine Learning methode KNN aan de hand van een paar kleine voorbeelden in Excel.</description>
+      <category>excel</category>
+      <category>machinelearning</category>
+      <guid>https://bwelman.github.io/softwijs/posts/2022-04-04-knn-uitleg</guid>
+      <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://bwelman.github.io/softwijs/posts/2022-04-04-knn-uitleg/knn-2dim-grafiek.png" medium="image" type="image/png" width="442" height="369"/>
+    </item>
+    <item>
+      <title>Statistische procescontrole met Excel</title>
+      <dc:creator>Ben Welman</dc:creator>
+      <link>https://bwelman.github.io/softwijs/posts/2022-03-27-statistische-procescontrole-met-excel</link>
+      <description>Een lijndiagram (regelkaart) in Excel voor het controleren van een procesvariabele.</description>
+      <category>excel</category>
+      <category>statistiek</category>
+      <guid>https://bwelman.github.io/softwijs/posts/2022-03-27-statistische-procescontrole-met-excel</guid>
+      <pubDate>Sun, 27 Mar 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://bwelman.github.io/softwijs/posts/2022-03-27-statistische-procescontrole-met-excel/regelkaart.png" medium="image" type="image/png" width="448" height="322"/>
+    </item>
+    <item>
+      <title>Reeks getallen genereren</title>
+      <dc:creator>Ben Welman</dc:creator>
+      <link>https://bwelman.github.io/softwijs/posts/2022-03-15-reeks-getallen-genereren</link>
+      <description>Een matrix met (opeenvolgende) getallen genereren met de functie REEKS.</description>
+      <category>excel</category>
+      <category>matrix</category>
+      <guid>https://bwelman.github.io/softwijs/posts/2022-03-15-reeks-getallen-genereren</guid>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://bwelman.github.io/softwijs/posts/2022-03-15-reeks-getallen-genereren/reeks-2.png" medium="image" type="image/png" width="277" height="176"/>
+    </item>
+    <item>
+      <title>Powerquery en Landinstellingen</title>
+      <dc:creator>Ben Welman</dc:creator>
+      <link>https://bwelman.github.io/softwijs/posts/2022-03-14-powerquery-en-landinstellingen</link>
+      <description>Het gebruik van landinstellingen bij het importeren van platte bestanden (.csv).</description>
+      <category>excel</category>
+      <category>powerquery</category>
+      <guid>https://bwelman.github.io/softwijs/posts/2022-03-14-powerquery-en-landinstellingen</guid>
+      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://bwelman.github.io/softwijs/posts/2022-03-14-powerquery-en-landinstellingen/query-opties-werkmap.png" medium="image" type="image/png" width="512" height="357"/>
+    </item>
+    <item>
+      <title>Complexe getallen in Excel</title>
+      <dc:creator>Ben Welman</dc:creator>
+      <link>https://bwelman.github.io/softwijs/posts/2022-03-01-complexe-getallen-in-excel</link>
+      <description>Excel functies voor het werken met complexe getallen.</description>
+      <category>excel</category>
+      <guid>https://bwelman.github.io/softwijs/posts/2022-03-01-complexe-getallen-in-excel</guid>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://bwelman.github.io/softwijs/posts/2022-03-01-complexe-getallen-in-excel/complex-getal.png" medium="image" type="image/png" width="180" height="237"/>
+    </item>
+    <item>
+      <title>Converteren van eenheden</title>
+      <dc:creator>Ben Welman</dc:creator>
+      <link>https://bwelman.github.io/softwijs/posts/2022-02-22-converteren</link>
+      <description>Met de Excel formule CONVERTEREN kun je eenvoudig Engelstalige eenheden omrekenen naar andere eenheden.</description>
+      <category>excel</category>
+      <guid>https://bwelman.github.io/softwijs/posts/2022-02-22-converteren</guid>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://bwelman.github.io/softwijs/posts/2022-02-22-converteren/logo.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Kwartaal uit datum</title>
+      <dc:creator>Ben Welman</dc:creator>
+      <link>https://bwelman.github.io/softwijs/posts/2022-01-28-kwartaal-uit-datum</link>
+      <description>Formules om het kwartaalnummer uit een datum te halen.</description>
+      <category>excel</category>
+      <guid>https://bwelman.github.io/softwijs/posts/2022-01-28-kwartaal-uit-datum</guid>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://bwelman.github.io/softwijs/posts/2022-01-28-kwartaal-uit-datum/kwartalen.png" medium="image" type="image/png" width="250" height="282"/>
+    </item>
+    <item>
+      <title>Matrixbewerkingen in Excel</title>
+      <dc:creator>Ben Welman</dc:creator>
+      <link>https://bwelman.github.io/softwijs/posts/2021-05-21-matrixbewerkingen-in-excel</link>
+      <description>Het werken met matrices (arrays) in Excel.</description>
+      <category>excel</category>
+      <category>matrix</category>
+      <guid>https://bwelman.github.io/softwijs/posts/2021-05-21-matrixbewerkingen-in-excel</guid>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://bwelman.github.io/softwijs/posts/2021-05-21-matrixbewerkingen-in-excel/vergelijkingen.png" medium="image" type="image/png" width="422" height="177"/>
+    </item>
+    <item>
+      <title>Workflow studieboeken</title>
+      <dc:creator>Ben Welman</dc:creator>
+      <link>https://bwelman.github.io/softwijs/posts/2021-04-14-workflow-studieboeken</link>
+      <description>Uitleg over de workflow voor de productie van mijn studieboeken.</description>
+      <category>eboek</category>
+      <guid>https://bwelman.github.io/softwijs/posts/2021-04-14-workflow-studieboeken</guid>
+      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://bwelman.github.io/softwijs/posts/2021-04-14-workflow-studieboeken/workflow-studieboeken_files/figure-html5/unnamed-chunk-1-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Unieke waarden/Records in Access Queries</title>
+      <dc:creator>Ben Welman</dc:creator>
+      <link>https://bwelman.github.io/softwijs/posts/2021-02-02-unieke-records-access</link>
+      <description>Uitleg over het verschil tussen deze twee query opties in MS Access.</description>
+      <category>access</category>
+      <category>queries</category>
+      <guid>https://bwelman.github.io/softwijs/posts/2021-02-02-unieke-records-access</guid>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://bwelman.github.io/softwijs/posts/2021-02-02-unieke-records-access/qry-uniekewaarden-ontwerp.png" medium="image" type="image/png" width="261" height="217"/>
+    </item>
+    <item>
+      <title>Netlify Drop</title>
+      <dc:creator>Ben Welman</dc:creator>
+      <link>https://bwelman.github.io/softwijs/posts/2020-08-04-netlify-drop</link>
+      <description>Hoe je snel een website online kunt brengen.</description>
+      <category>netlify</category>
+      <category>website</category>
+      <guid>https://bwelman.github.io/softwijs/posts/2020-08-04-netlify-drop</guid>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      <media:content url="https://bwelman.github.io/softwijs/posts/2020-08-04-netlify-drop/netlify-drop.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Latex werkomgeving</title>
+      <dc:creator>Ben Welman</dc:creator>
+      <link>https://bwelman.github.io/softwijs/posts/2020-05-24-latex-werkomgeving</link>
+      <description>Hoe een werkomgeving voor Latex eruit kan zien.</description>
+      <category>latex</category>
+      <guid>https://bwelman.github.io/softwijs/posts/2020-05-24-latex-werkomgeving</guid>
+      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
+      <media:content url="https://bwelman.github.io/softwijs/posts/2020-05-24-latex-werkomgeving/preview.png" medium="image" type="image/png" width="307" height="131"/>
+    </item>
+    <item>
+      <title>Aselecte getallen</title>
+      <dc:creator>Ben Welman</dc:creator>
+      <link>https://bwelman.github.io/softwijs/posts/2020-05-17-aselecte-getallen</link>
+      <description>Over hoe willekeurige getallen kunt genereren in Excel.</description>
+      <category>excel</category>
+      <category>aselect</category>
+      <category>random</category>
+      <category>statistiek</category>
+      <category>matrix</category>
+      <guid>https://bwelman.github.io/softwijs/posts/2020-05-17-aselecte-getallen</guid>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      <media:content url="https://bwelman.github.io/softwijs/posts/2020-05-17-aselecte-getallen/preview.png" medium="image" type="image/png" width="285" height="205"/>
+    </item>
+    <item>
+      <title>Histogrammen (deel 1)</title>
+      <dc:creator>Ben Welman</dc:creator>
+      <link>https://bwelman.github.io/softwijs/posts/2020-05-13-histogrammen-1</link>
+      <description>Hoe je frequentieverdelingen in Excel maakt.</description>
+      <category>excel</category>
+      <category>histogram</category>
+      <category>statistiek</category>
+      <guid>https://bwelman.github.io/softwijs/posts/2020-05-13-histogrammen-1</guid>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Histogrammen (deel 2)</title>
+      <dc:creator>Ben Welman</dc:creator>
+      <link>https://bwelman.github.io/softwijs/posts/2020-06-23-histogrammen-2</link>
+      <description>Hoe je frequentieverdelingen en histogrammen in Excel maakt.</description>
+      <category>excel</category>
+      <category>histogram</category>
+      <category>statistiek</category>
+      <guid>https://bwelman.github.io/softwijs/posts/2020-06-23-histogrammen-2</guid>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      <media:content url="https://bwelman.github.io/softwijs/posts/2020-06-23-histogrammen-2/freq-gegevensanalyse-resultaat.png" medium="image" type="image/png" width="600" height="217"/>
+    </item>
+    <item>
+      <title>Curve functie voor grafieken</title>
+      <dc:creator>Ben Welman</dc:creator>
+      <link>https://bwelman.github.io/softwijs/posts/2020-04-04-curve-functie</link>
+      <description>Hoe je snel en eenvoudig grafieken kunt maken met de functie curve.</description>
+      <category>R</category>
+      <guid>https://bwelman.github.io/softwijs/posts/2020-04-04-curve-functie</guid>
+      <pubDate>Sat, 04 Apr 2020 00:00:00 +0000</pubDate>
+      <media:content url="https://bwelman.github.io/softwijs/posts/2020-04-04-curve-functie/curve-functie_files/figure-html5/vb04-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Exceldata naar xml exporteren</title>
+      <dc:creator>Ben Welman</dc:creator>
+      <link>https://bwelman.github.io/softwijs/posts/2020-03-01-excel-xml-export</link>
+      <description>Gegevens in een Excel tabel exporteren naar een XML bestand.</description>
+      <category>excel</category>
+      <category>xml</category>
+      <guid>https://bwelman.github.io/softwijs/posts/2020-03-01-excel-xml-export</guid>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <media:content url="https://bwelman.github.io/softwijs/posts/2020-03-01-excel-xml-export/xml-5.png" medium="image" type="image/png" width="694" height="344"/>
+    </item>
+    <item>
+      <title>Latex in Markdown</title>
+      <dc:creator>Ben Welman</dc:creator>
+      <link>https://bwelman.github.io/softwijs/posts/2020-01-02-latex-markdown</link>
+      <description>De mogelijkheden om latex code op te nemen in platte Markdown.</description>
+      <category>latex</category>
+      <category>markdown</category>
+      <guid>https://bwelman.github.io/softwijs/posts/2020-01-02-latex-markdown</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Online studieboeken</title>
+      <dc:creator>Ben Welman</dc:creator>
+      <link>https://bwelman.github.io/softwijs/posts/2019-11-03-online-studieboeken</link>
+      <description>De mogelijkheden om studieboeken online te publiceren.</description>
+      <category>eboek</category>
+      <category>dita</category>
+      <category>markdown</category>
+      <category>pdf</category>
+      <category>epub</category>
+      <guid>https://bwelman.github.io/softwijs/posts/2019-11-03-online-studieboeken</guid>
+      <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
+      <media:content url="https://bwelman.github.io/softwijs/posts/2019-11-03-online-studieboeken/preview.png" medium="image" type="image/png" width="339" height="228"/>
+    </item>
+    <item>
+      <title>Marktwaarde voetbalclub</title>
+      <dc:creator>Ben Welman</dc:creator>
+      <link>https://bwelman.github.io/softwijs/posts/2019-08-06-marktwaarde-voetbalclub</link>
+      <description>Het bepalen van de marktwaarde van voetbalspelers met behulp van een webquery.</description>
+      <category>excel</category>
+      <category>powerquery</category>
+      <guid>https://bwelman.github.io/softwijs/posts/2019-08-06-marktwaarde-voetbalclub</guid>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
+      <media:content url="https://bwelman.github.io/softwijs/posts/2019-08-06-marktwaarde-voetbalclub/club-08.png" medium="image" type="image/png" width="479" height="587"/>
+    </item>
+    <item>
+      <title>Functienamen van Excel vertalen</title>
+      <dc:creator>Ben Welman</dc:creator>
+      <link>https://bwelman.github.io/softwijs/posts/2019-07-31-excel-functienamen-vertalen</link>
+      <description>Addin voor Excel om functienamen te vertalen.</description>
+      <category>excel</category>
+      <guid>https://bwelman.github.io/softwijs/posts/2019-07-31-excel-functienamen-vertalen</guid>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
+      <media:content url="https://bwelman.github.io/softwijs/posts/2019-07-31-excel-functienamen-vertalen/preview.png" medium="image" type="image/png" width="293" height="246"/>
+    </item>
+    <item>
+      <title>Power BI Desktop (deel 2)</title>
+      <dc:creator>Ben Welman</dc:creator>
+      <link>https://bwelman.github.io/softwijs/posts/2019-07-15-power-bi-desktop-2</link>
+      <description>Het tweede deel van de tutorial over Power BI Desktop. Meer visualisaties en eindrapportage.</description>
+      <category>excel</category>
+      <category>power-bi</category>
+      <category>tutorial</category>
+      <guid>https://bwelman.github.io/softwijs/posts/2019-07-15-power-bi-desktop-2</guid>
+      <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
+      <media:content url="https://bwelman.github.io/softwijs/posts/2019-07-15-power-bi-desktop-2/boekenverkoop-eindrapport.png" medium="image" type="image/png" width="540" height="387"/>
+    </item>
+    <item>
+      <title>Power BI Desktop (deel 1)</title>
+      <dc:creator>Ben Welman</dc:creator>
+      <link>https://bwelman.github.io/softwijs/posts/2019-07-14-power-bi-desktop-1</link>
+      <description>Het eerste deel van een tutorial over het werken met Power BI Desktop. Het ophalen van gegevens en het maken van een visualisatie.</description>
+      <category>excel</category>
+      <category>power-bi</category>
+      <category>tutorial</category>
+      <guid>https://bwelman.github.io/softwijs/posts/2019-07-14-power-bi-desktop-1</guid>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
+      <media:content url="https://bwelman.github.io/softwijs/posts/2019-07-14-power-bi-desktop-1/powerbi-opstartscherm.png" medium="image" type="image/png" width="530" height="289"/>
+    </item>
+    <item>
+      <title>Power Query Opties</title>
+      <dc:creator>Ben Welman</dc:creator>
+      <link>https://bwelman.github.io/softwijs/posts/2018-11-18-power-query-opties</link>
+      <description>Opties voor Power Query in Excel.</description>
+      <category>excel</category>
+      <category>powerquery</category>
+      <guid>https://bwelman.github.io/softwijs/posts/2018-11-18-power-query-opties</guid>
+      <pubDate>Sun, 18 Nov 2018 00:00:00 +0000</pubDate>
+      <media:content url="https://bwelman.github.io/softwijs/posts/2018-11-18-power-query-opties/power-query-opties.png" medium="image" type="image/png" width="528" height="386"/>
+    </item>
+    <item>
+      <title>Power Pivot voor alle Windows Excel versies</title>
+      <dc:creator>Ben Welman</dc:creator>
+      <link>https://bwelman.github.io/softwijs/posts/2018-10-19-power-pivot</link>
+      <description>Beschikbaarheid van Power Pivot nu voor alle versies van Excel.</description>
+      <category>excel</category>
+      <category>powerpivot</category>
+      <guid>https://bwelman.github.io/softwijs/posts/2018-10-19-power-pivot</guid>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 +0000</pubDate>
+      <media:content url="https://bwelman.github.io/softwijs/posts/2018-10-19-power-pivot/preview.png" medium="image" type="image/png" width="461" height="95"/>
+    </item>
+    <item>
+      <title>Website bouwstenen (1)</title>
+      <dc:creator>Ben Welman</dc:creator>
+      <link>https://bwelman.github.io/softwijs/posts/2018-09-09-website-bouwstenen-1</link>
+      <description>Opsomming hulpprogramma's voor het maken van een statische website.</description>
+      <category>markdown</category>
+      <category>hugo</category>
+      <guid>https://bwelman.github.io/softwijs/posts/2018-09-09-website-bouwstenen-1</guid>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <media:content url="https://bwelman.github.io/softwijs/posts/2018-09-09-website-bouwstenen-1/preview.png" medium="image" type="image/png" width="315" height="111"/>
+    </item>
+    <item>
+      <title>R installatie</title>
+      <dc:creator>Ben Welman</dc:creator>
+      <link>https://bwelman.github.io/softwijs/posts/2015-10-05-r-installatie</link>
+      <description>Hoe te beginnen met R.</description>
+      <category>markdown</category>
+      <category>R</category>
+      <guid>https://bwelman.github.io/softwijs/posts/2015-10-05-r-installatie</guid>
+      <pubDate>Mon, 05 Oct 2015 00:00:00 +0000</pubDate>
+      <media:content url="https://bwelman.github.io/softwijs/posts/2015-10-05-r-installatie/Rlogo.png" medium="image" type="image/png" width="200" height="155"/>
+    </item>
+    <item>
+      <title>Het lezen van e-boeken</title>
+      <dc:creator>Ben Welman</dc:creator>
+      <link>https://bwelman.github.io/softwijs/posts/2012-12-24-eboek-lezen</link>
+      <description>De mogelijkheden die je hebt om een e-boek te lezen hangen af van het formaat waarin het e-boek is uitgebracht, de apparatuur waarover je beschikt en of het e-boek al dan niet met DRM beschermd is.</description>
+      <category>eboek</category>
+      <guid>https://bwelman.github.io/softwijs/posts/2012-12-24-eboek-lezen</guid>
+      <pubDate>Mon, 24 Dec 2012 00:00:00 +0000</pubDate>
+      <media:content url="https://bwelman.github.io/softwijs/posts/2012-12-24-eboek-lezen/preview.png" medium="image" type="image/png" width="474" height="293"/>
+    </item>
+    <item>
+      <title>Beperkingen Excel voor statistisch gebruik</title>
+      <dc:creator>Ben Welman</dc:creator>
+      <link>https://bwelman.github.io/softwijs/posts/2012-12-24-excel-statistiek-beperkingen</link>
+      <description>Statistische mogelijkheden in Excel en de beperkingen hierbij.</description>
+      <category>excel</category>
+      <category>statistiek</category>
+      <guid>https://bwelman.github.io/softwijs/posts/2012-12-24-excel-statistiek-beperkingen</guid>
+      <pubDate>Mon, 24 Dec 2012 00:00:00 +0000</pubDate>
+      <media:content url="https://bwelman.github.io/softwijs/posts/2012-12-24-excel-statistiek-beperkingen/preview.png" medium="image" type="image/png" width="512" height="331"/>
+    </item>
+    <item>
+      <title>Studieboek formaten</title>
+      <dc:creator>Ben Welman</dc:creator>
+      <link>https://bwelman.github.io/softwijs/posts/2012-09-20-studieboek-formaat</link>
+      <description>Zijn de digitale formaten PDF en EPUB als vervangers voor het papieren boek.</description>
+      <category>eboek</category>
+      <guid>https://bwelman.github.io/softwijs/posts/2012-09-20-studieboek-formaat</guid>
+      <pubDate>Thu, 20 Sep 2012 00:00:00 +0000</pubDate>
+      <media:content url="https://bwelman.github.io/softwijs/posts/2012-09-20-studieboek-formaat/ebooks.png" medium="image" type="image/png" width="290" height="250"/>
+    </item>
+  </channel>
+</rss>

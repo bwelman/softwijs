@@ -1,0 +1,35 @@
+---
+title: "Over de website"
+date: 2018-09-08
+description: |
+  Over het doel van de website.
+---
+
+### Ben Welman
+
+Ik heb Chemische Technologie gestudeerd aan de THT, de huidige [Universiteit Twente](https://www.utwente.nl/).
+Na eerst een aantal jaren scheikunde en wiskunde te hebben gegeven op middelbare scholen ben ik als docent informatica en statistiek gaan werken bij de opleiding Commercieel Technische Bedrijfskunde van  de Hogeschool Enschede, nu [Saxion Hogescholen](https://www.saxion.nl/). Van daaruit intern overgestapt naar MeetingPoint dat zich voornamelijk bezighield met het ontwikkelen en ondersteunen van e-learning.
+
+In 1993 heb ik [Softwijs](https://softwijs.nl/) opgericht met als oorspronkelijke doel het ontwikkelen van educatieve software voor MO, MBO en HBO. Eind jaren negentig kwam hier het geven van trainingen in de MS Office toepassingen bij. Het cursusmateriaal is in eigen beheer ontwikkeld. De studieboeken onderscheiden zich van andere boeken door de grote hoeveelheid opgaven hierin, vaak rechtstreeks voortkomend uit de beroepspraktijk. Eind 2018 ben ik bedrijfsmatig met Softwijs gestopt.
+
+Na mijn pensionering heb ik tijd voor mijn hobby's: biljarten, bridgen, bierbrouwen, broodbakken en reizen (vooral met de camper en dan de fiets mee). Daarnaast hou ik naast het maken van studieboeken nog wat tijd over om me verder te verdiepen in data analyse en dan vooral met [R](https://en.wikipedia.org/wiki/R_(programming_language)) en wat minder met [Python](https://www.python.org/).
+
+### Studieboeken
+
+Onderstaande online studieboeken zijn gratis beschikbaar.
+
++ **[LeerAccess](https://leeraccess.netlify.app/)** - Taakgericht studieboek ontwikkeld voor met name studenten in het middelbaar en hoger onderwijs, met veel opgaven.
+
++ **[LearnAccess](https://learnaccess.netlify.app/)** - Engelstalige versie van LeerAccess
+
++ **[LeerExcel](https://leerexcel.netlify.app/)** - Taakgericht studieboek ontwikkeld voor met name studenten in het middelbaar en hoger onderwijs, met veel opgaven.
+
++ **[LearnExcel](https://learnexcel.netlify.app/)** -  Gratis Engelstalige versie van LeerExcel
+
++ **[ExcelAnalyse](https://excelanalyse.netlify.app/)** - Data analyse met Excel
+
++ **[Brouw je Bier](https://brouwjebier.nu/)** - Cursusboek bierbrouwen
+
+### Contact
+
+Voor vragen en aanvullende informatie, stuur een bericht naar: [Softwijs](mailto:softwijsinfo@gmail.com)

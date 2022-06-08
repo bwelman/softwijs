@@ -1,0 +1,22 @@
+name: "softwijs"
+title: "Softwijs website"
+description: |
+  Data analyse, Excel, R
+base_url: https://bwelman.github.io/softwijs/
+output_dir: "docs"
+theme: swstyle.css
+google_analytics: "G-DZG4072LJ3"
+#creative_commons: CC BY-SA
+navbar:
+  title: "Softwijs - Data analyse, R, Excel"
+  search: true
+  right:
+    - icon: fa-home
+      href: index.html
+    - text: "Over"
+      href: over.html
+    - icon: fa fa-github
+      href: https://github.com/bwelman
+    - icon: fa fa-linkedin
+      href: https://www.linkedin.com/in/benwelman/
+output: distill::distill_article

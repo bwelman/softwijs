@@ -1,0 +1,7 @@
+---
+title: "Softwijs"
+description: |
+  Welkom op de website van Softwijs.
+site: distill::distill_website
+listing: posts
+---
