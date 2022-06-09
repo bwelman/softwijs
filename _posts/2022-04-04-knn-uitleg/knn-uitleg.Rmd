@@ -67,7 +67,7 @@ In figuur \@ref(fig:knn-2dim-grafiek) is een spreidingsdiagram van gewicht tegen
 knitr::include_graphics("knn-2dim-grafiek.png")
 ```
 
-Ook nu wordt weer de afstand bepaald van de nieuwe persoon tot de andere personen. Bij twee variabelen wordt de Euclidische afstand bepaald. Voor twee punten $(x_1,y_1$ en $(x_2,y_2$ kun je deze via Pythagoras uitrekenen:
+Ook nu wordt weer de afstand bepaald van de nieuwe persoon tot de andere personen. Bij twee variabelen wordt de Euclidische afstand bepaald. Voor twee punten $(x_1,y_1)$ en $(x_2,y_2)$ kun je deze via Pythagoras uitrekenen:
 
 $$\text{afstand } = \sqrt{(x_1 - x_2)^2 + (y_1 - y_2)^2}$$
 
@@ -101,7 +101,7 @@ Wanneer nu naar de dichtstbijzijnde buren gekeken wordt zijn de resultaten iets 
 
 **Meer dan 2 kenmerken**
 
-Voor meer attributen, bijvoorbeeld hier uitgebreid met de taillemaat, is het principe is hetzelfde. Je kunt het wat moeilijker tekenen en ook het berekenen van de adstand is wat meer werk.
+Voor meer attributen, bijvoorbeeld door de gegevens aan te vullen met de taillemaat, is het principe hetzelfde. Je kunt het wat moeilijker tekenen en ook het berekenen van de afstand is wat meer werk.
 
 $$\text{afstand} = \sqrt{(x_1 - x_2)^2 + (y_1 - y_2)^2 + (z_1 - z_2)^2 + ... }$$
 
